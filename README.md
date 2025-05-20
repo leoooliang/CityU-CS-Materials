@@ -31,7 +31,7 @@ This repository currently includes materials for the following courses:
 | CS4186 | Computer Vision and Image Processing | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4186.htm) |  |
 | CS4187 | Computer Vision for Interactivity | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4187.htm) |  |
 | CS4335 | Design and Analysis of Algorithms | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4335.htm) |  |
-| CS4486 | Artificial Intelligence | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4486.htm) |  |
+| CS4486 | Artificial Intelligence | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4486.htm) | [Directory](https://github.com/leoooliang/CityU-CS-Materials/tree/main/CS4486_Artificial_Intelligence)
 
 ## Contributing
 We welcome contributions on the CityU CS! Feel free to pull request with a clear description of your changes or updates. Please ensure that all contributions respect academic integrity and do not violate City University's policies on sharing course materials.
