@@ -27,7 +27,7 @@ This repository currently includes materials for the following courses:
 | CS3343 | Software Engineering Practice | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3343.htm) |  |
 | CS3402 | Database Systems | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3402.htm) |  |
 | CS3481 | Fundamentals of Data Science | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3481.htm) | [Directory](https://github.com/leoooliang/CityU-CS-Materials/tree/main/CS3481_Fundamentals_of_Data_Science) |
-| CS3483 | Multimodal Interface Design | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3483.htm) |  |
+| CS3483 | Multimodal Interface Design | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3483.htm) | [Directory](https://github.com/leoooliang/CityU-CS-Materials/tree/main/CS3483_Multimodal_Interface_Design) |
 | CS4186 | Computer Vision and Image Processing | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4186.htm) |  |
 | CS4187 | Computer Vision for Interactivity | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4187.htm) |  |
 | CS4335 | Design and Analysis of Algorithms | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS4335.htm) |  |
