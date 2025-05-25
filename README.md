@@ -23,7 +23,7 @@ This repository currently includes materials for the following courses:
 | CS3103 | Operating Systems | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3103.htm) |  |
 | CS3201 | Computer Networks | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3201.htm) |  |
 | CS3334 | Data Structures | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3334.htm) |  |
-| CS3342 | Software Design | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3342.htm) |  |
+| CS3342 | Software Design | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3342.htm) | [Directory](https://github.com/leoooliang/CityU-CS-Materials/tree/main/CS3342_Software_Design) |
 | CS3343 | Software Engineering Practice | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3343.htm) |  |
 | CS3402 | Database Systems | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3402.htm) |  |
 | CS3481 | Fundamentals of Data Science | [Website](https://www.cityu.edu.hk/catalogue/ug/current/course/CS3481.htm) | [Directory](https://github.com/leoooliang/CityU-CS-Materials/tree/main/CS3481_Fundamentals_of_Data_Science) |
